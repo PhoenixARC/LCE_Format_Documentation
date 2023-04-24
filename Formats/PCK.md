@@ -53,13 +53,13 @@ It is worth noting that aside from the main lineup(PS3, WiiU, and Xbox360) all o
 
 | ID | File Type | Extension |
 | :-:|:-:|:-:|
-| 0 |  Skin | *.png
-| 1 |  Cape | *.png
+| 0 |  Skin | dlcskin********.png
+| 1 |  Cape | dlccape********.png
 | 2 |  Texture | *.png
 | 3 |  UI Data | *.fui
 | 4 |  Info | '0'
 | 5 |  Texture Pack Info | (x16/x32/x64)Info.pck
-| 6 |  Localisation | *.loc
+| 6 |  Localisation | (languages/Localisation).loc
 | 7 |  Game Rules | GameRules.grf
 | 8 |  Audio | audio.pck
 | 9 |  Colour Table | colours.col
