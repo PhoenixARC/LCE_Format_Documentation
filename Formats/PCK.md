@@ -56,7 +56,7 @@
 | 2 |  Texture | *.png
 | 3 |  UI Data | *.fui
 | 4 |  Info | '0'
-| 5 |  Texture Pack Info | (x16|x32|x64)Info.pck
+| 5 |  Texture Pack Info | (x16/x32/x64)Info.pck
 | 6 |  Localisation | *.loc
 | 7 |  Game Rules | GameRules.grf
 | 8 |  Audio | audio.pck
