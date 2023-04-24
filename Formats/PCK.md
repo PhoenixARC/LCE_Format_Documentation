@@ -53,8 +53,8 @@ It is worth noting that aside from the main lineup(PS3, WiiU, and Xbox360) all o
 
 | ID | File Type | Extension |
 | :-:|:-:|:-:|
-| 0 |  Skin | dlcskin********.png
-| 1 |  Cape | dlccape********.png
+| 0 |  Skin | dlcskin********.png(*any unigue 8 digit ID)
+| 1 |  Cape | dlccape********.png(*any unique 8 digit ID)
 | 2 |  Texture | *.png
 | 3 |  UI Data | *.fui
 | 4 |  Info | '0'
