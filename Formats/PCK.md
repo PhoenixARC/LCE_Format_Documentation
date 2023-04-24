@@ -28,7 +28,7 @@
 | Name | Size (per element) | Description |
 | :-:|:-:|:-:|
 | File Size | (int32)0x4 | indicates size in bytes of a file
-| [File type](./PCK.md#File Types) | (int32)0x4 | indicates type of file(Skin file, cape file, models, colours, etc)
+| [File type](./PCK.md#File-Types) | (int32)0x4 | indicates type of file(Skin file, cape file, models, colours, etc)
 | File Name | variable | a string(int16 indicates length, then Little endian Unicode string of specified length) indicating file name
 
 ## contents
