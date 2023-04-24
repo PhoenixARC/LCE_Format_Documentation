@@ -1,9 +1,9 @@
 | Name | Size (per element) | Description |
 | :-:|:-:|:-:|
 | PCK Type | (int32)0x4 | indicates PCK Format
-| [Look-Up Table](./#lookupTable) | variable | a list of all possible tags a file can have
-| [File Entries](./#entries) | variable | an index of all files within the PCK, contains size, type, and filename
-| [File Contents](./#contents) | variable | all files within the PCK, includes file tags
+| [Look-Up Table](./PCK.md#lookupTable) | variable | a list of all possible tags a file can have
+| [File Entries](./PCK.md#entries) | variable | an index of all files within the PCK, contains size, type, and filename
+| [File Contents](./PCK.md#contents) | variable | all files within the PCK, includes file tags
 
 ## lookupTable
 
@@ -28,7 +28,7 @@
 | Name | Size (per element) | Description |
 | :-:|:-:|:-:|
 | File Size | (int32)0x4 | indicates size in bytes of a file
-| File type | (int32)0x4 | indicates type of file(Skin file, cape file, models, colours, etc)
+| [File type](./PCK.md#File Types) | (int32)0x4 | indicates type of file(Skin file, cape file, models, colours, etc)
 | File Name | variable | a string(int16 indicates length, then Little endian Unicode string of specified length) indicating file name
 
 ## contents
