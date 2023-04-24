@@ -5,6 +5,8 @@
 | [File Entries](./PCK.md#entries) | variable | an index of all files within the PCK, contains size, type, and filename
 | [File Contents](./PCK.md#contents) | variable | all files within the PCK, includes file tags
 
+It is worth noting that aside from the main lineup(PS3, WiiU, and Xbox360) all other consoles are Endian Swapped.
+
 ## lookupTable
 
 | Name | Size (per element) | Description |
