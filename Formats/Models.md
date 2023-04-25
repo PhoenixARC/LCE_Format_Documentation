@@ -4,6 +4,11 @@
 | Model Count  | (int32)0x4 | how many models are within the file
 | [Models](./Models.md#model) | variable | all models within the model file
 
+
+ * all known Model/Material information is the direct product of [May/MattNL](https://github.com/MattN-L)'s work! 
+ 
+
+
 ## model
 
 (repeated per model count)
