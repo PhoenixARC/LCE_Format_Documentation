@@ -15,7 +15,7 @@
 | Name | Size (per element) | Description |
 | :-:|:-:|:-:|
 | Name | variable | a string(int16 indicates length, then Little endian Unicode string of specified length) indicating Colour name
-| Colour | [(ARGB)](./COL.md#ARGB)0x4 | a string(int16 indicates length, then Little endian Unicode string of specified length) indicating Colour name
+| Colour | [(ARGB)](./COL.md#ARGB)0x4 | an ARGB value, indicating colour and transparency
 
 
 ## Water Colours
@@ -29,9 +29,9 @@
 | Name | Size (per element) | Description |
 | :-:|:-:|:-:|
 | Name | variable | a string(int16 indicates length, then Little endian Unicode string of specified length) indicating Colour name
-| Surface Colour | [(ARGB)](./COL.md#ARGB)0x4 | a string(int16 indicates length, then Little endian Unicode string of specified length) indicating Colour name
-| Underwater Colour | [(ARGB)](./COL.md#ARGB)0x4 | a string(int16 indicates length, then Little endian Unicode string of specified length) indicating Colour name
-| Fog Colour | [(ARGB)](./COL.md#ARGB)0x4 | a string(int16 indicates length, then Little endian Unicode string of specified length) indicating Colour name
+| Surface Colour | [(ARGB)](./COL.md#ARGB)0x4 | an ARGB value, indicating colour and transparency
+| Underwater Colour | [(ARGB)](./COL.md#ARGB)0x4 | an ARGB value, indicating colour and transparency
+| Fog Colour | [(ARGB)](./COL.md#ARGB)0x4 | an ARGB value, indicating colour and transparency
 
 ## ARGB
 
